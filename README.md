@@ -1,2 +1,2 @@
 # Customer-churn
-Predict customers who will leave a telecom service based on dataset. 
+Predict if bank customers will turnover next cycle.
